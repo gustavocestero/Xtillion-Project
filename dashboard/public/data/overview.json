@@ -1,0 +1,159 @@
+{
+  "kpis": {
+    "total_customers": 1002,
+    "transfer_volume": 55472.02,
+    "store_revenue": 2530.0,
+    "promo_response_rate": 0.4746
+  },
+  "monthly_activity": [
+    {
+      "year_month": "2022-01",
+      "transfer_total": 381.93,
+      "transaction_total": 13.0
+    },
+    {
+      "year_month": "2022-02",
+      "transfer_total": 382.03,
+      "transaction_total": 62.0
+    },
+    {
+      "year_month": "2022-03",
+      "transfer_total": 300.68,
+      "transaction_total": 173.0
+    },
+    {
+      "year_month": "2022-04",
+      "transfer_total": 147.12,
+      "transaction_total": 153.0
+    },
+    {
+      "year_month": "2022-05",
+      "transfer_total": 587.81,
+      "transaction_total": 97.0
+    },
+    {
+      "year_month": "2022-06",
+      "transfer_total": 536.26,
+      "transaction_total": 112.0
+    },
+    {
+      "year_month": "2022-07",
+      "transfer_total": 377.4,
+      "transaction_total": 81.0
+    },
+    {
+      "year_month": "2022-08",
+      "transfer_total": 408.73,
+      "transaction_total": 82.0
+    },
+    {
+      "year_month": "2022-09",
+      "transfer_total": 481.34,
+      "transaction_total": 79.0
+    },
+    {
+      "year_month": "2022-10",
+      "transfer_total": 497.22,
+      "transaction_total": 119.0
+    },
+    {
+      "year_month": "2022-11",
+      "transfer_total": 713.1,
+      "transaction_total": 75.0
+    },
+    {
+      "year_month": "2022-12",
+      "transfer_total": 523.64,
+      "transaction_total": 256.0
+    },
+    {
+      "year_month": "2023-01",
+      "transfer_total": 1075.79,
+      "transaction_total": 35.0
+    },
+    {
+      "year_month": "2023-02",
+      "transfer_total": 471.2,
+      "transaction_total": 59.0
+    },
+    {
+      "year_month": "2023-03",
+      "transfer_total": 733.71,
+      "transaction_total": 95.0
+    },
+    {
+      "year_month": "2023-04",
+      "transfer_total": 819.29,
+      "transaction_total": 119.0
+    },
+    {
+      "year_month": "2023-05",
+      "transfer_total": 917.41,
+      "transaction_total": 18.0
+    },
+    {
+      "year_month": "2023-06",
+      "transfer_total": 5891.31,
+      "transaction_total": 40.0
+    },
+    {
+      "year_month": "2023-07",
+      "transfer_total": 714.54,
+      "transaction_total": 171.0
+    },
+    {
+      "year_month": "2023-08",
+      "transfer_total": 15865.58,
+      "transaction_total": 107.0
+    },
+    {
+      "year_month": "2023-09",
+      "transfer_total": 15950.82,
+      "transaction_total": 33.0
+    },
+    {
+      "year_month": "2023-10",
+      "transfer_total": 1138.35,
+      "transaction_total": 4.0
+    },
+    {
+      "year_month": "2023-11",
+      "transfer_total": 593.92,
+      "transaction_total": 54.0
+    },
+    {
+      "year_month": "2023-12",
+      "transfer_total": 786.02,
+      "transaction_total": 239.0
+    },
+    {
+      "year_month": "2024-01",
+      "transfer_total": 1322.37,
+      "transaction_total": 49.0
+    },
+    {
+      "year_month": "2024-02",
+      "transfer_total": 1239.86,
+      "transaction_total": 69.0
+    },
+    {
+      "year_month": "2024-03",
+      "transfer_total": 1437.76,
+      "transaction_total": 52.0
+    },
+    {
+      "year_month": "2024-04",
+      "transfer_total": 1176.83,
+      "transaction_total": 84.0
+    }
+  ],
+  "data_quality": {
+    "people_total": 1002,
+    "people_overlap": 228,
+    "people_json_only": 705,
+    "people_yaml_only": 69,
+    "promo_match_rate": 1.0,
+    "txn_match_rate": 0.9861,
+    "transfers_invalid": 15
+  }
+}

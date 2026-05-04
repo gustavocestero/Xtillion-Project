@@ -1,0 +1,274 @@
+{
+  "response_by_brand": [
+    {
+      "brand": "Popsi",
+      "No": 10,
+      "Yes": 15,
+      "total": 25,
+      "yes_rate": 0.6
+    },
+    {
+      "brand": "Oreoz",
+      "No": 13,
+      "Yes": 18,
+      "total": 31,
+      "yes_rate": 0.5806
+    },
+    {
+      "brand": "Krafty Cheddar",
+      "No": 7,
+      "Yes": 8,
+      "total": 15,
+      "yes_rate": 0.5333
+    },
+    {
+      "brand": "Dovee",
+      "No": 12,
+      "Yes": 13,
+      "total": 25,
+      "yes_rate": 0.52
+    },
+    {
+      "brand": "RedCow",
+      "No": 11,
+      "Yes": 11,
+      "total": 22,
+      "yes_rate": 0.5
+    },
+    {
+      "brand": "Coca-Splash",
+      "No": 13,
+      "Yes": 12,
+      "total": 25,
+      "yes_rate": 0.48
+    },
+    {
+      "brand": "Flixnet",
+      "No": 14,
+      "Yes": 10,
+      "total": 24,
+      "yes_rate": 0.4167
+    },
+    {
+      "brand": "GatorBoost",
+      "No": 17,
+      "Yes": 12,
+      "total": 29,
+      "yes_rate": 0.4138
+    },
+    {
+      "brand": "Colgatex",
+      "No": 10,
+      "Yes": 5,
+      "total": 15,
+      "yes_rate": 0.3333
+    },
+    {
+      "brand": "KittyKat",
+      "No": 17,
+      "Yes": 8,
+      "total": 25,
+      "yes_rate": 0.32
+    }
+  ],
+  "response_by_city": [
+    {
+      "city": "Santa Claus",
+      "No": 0,
+      "Yes": 12,
+      "total": 12,
+      "yes_rate": 1.0
+    },
+    {
+      "city": "Los Angeles",
+      "No": 7,
+      "Yes": 12,
+      "total": 19,
+      "yes_rate": 0.6316
+    },
+    {
+      "city": "San Diego",
+      "No": 13,
+      "Yes": 22,
+      "total": 35,
+      "yes_rate": 0.6286
+    },
+    {
+      "city": "San Francisco",
+      "No": 17,
+      "Yes": 19,
+      "total": 36,
+      "yes_rate": 0.5278
+    },
+    {
+      "city": "Chicago",
+      "No": 15,
+      "Yes": 12,
+      "total": 27,
+      "yes_rate": 0.4444
+    },
+    {
+      "city": "New York",
+      "No": 14,
+      "Yes": 10,
+      "total": 24,
+      "yes_rate": 0.4167
+    },
+    {
+      "city": "Toronto",
+      "No": 16,
+      "Yes": 9,
+      "total": 25,
+      "yes_rate": 0.36
+    },
+    {
+      "city": "Paris",
+      "No": 4,
+      "Yes": 2,
+      "total": 6,
+      "yes_rate": 0.3333
+    },
+    {
+      "city": "London",
+      "No": 20,
+      "Yes": 8,
+      "total": 28,
+      "yes_rate": 0.2857
+    },
+    {
+      "city": "Montreal",
+      "No": 8,
+      "Yes": 3,
+      "total": 11,
+      "yes_rate": 0.2727
+    },
+    {
+      "city": "Barcelona",
+      "No": 10,
+      "Yes": 3,
+      "total": 13,
+      "yes_rate": 0.2308
+    }
+  ],
+  "response_by_device": [
+    {
+      "device": "Android",
+      "No": 72,
+      "Yes": 78,
+      "total": 150,
+      "yes_rate": 0.52
+    },
+    {
+      "device": "Iphone",
+      "No": 88,
+      "Yes": 79,
+      "total": 167,
+      "yes_rate": 0.4731
+    },
+    {
+      "device": "Desktop",
+      "No": 65,
+      "Yes": 57,
+      "total": 122,
+      "yes_rate": 0.4672
+    }
+  ],
+  "fey_kuser_report": {
+    "email": "fey_kuser@example.com",
+    "appearances": 12,
+    "yes_count": 12,
+    "no_count": 0,
+    "brands": [
+      "Coca-Splash",
+      "Colgatex",
+      "Flixnet",
+      "GatorBoost",
+      "Krafty Cheddar",
+      "Oreoz",
+      "Popsi"
+    ],
+    "note": "Single email appears far more often than the typical 0\u20131 promos per customer. Likely a test account, data quality issue, or aggressive retargeting."
+  },
+  "retargeting_recs": [
+    {
+      "brand": "Dovee",
+      "city": "Chicago",
+      "No": 3,
+      "Yes": 0,
+      "total": 3,
+      "no_rate": 1.0
+    },
+    {
+      "brand": "GatorBoost",
+      "city": "New York",
+      "No": 3,
+      "Yes": 0,
+      "total": 3,
+      "no_rate": 1.0
+    },
+    {
+      "brand": "Oreoz",
+      "city": "Barcelona",
+      "No": 3,
+      "Yes": 0,
+      "total": 3,
+      "no_rate": 1.0
+    },
+    {
+      "brand": "KittyKat",
+      "city": "San Francisco",
+      "No": 4,
+      "Yes": 1,
+      "total": 5,
+      "no_rate": 0.8
+    },
+    {
+      "brand": "Popsi",
+      "city": "London",
+      "No": 4,
+      "Yes": 1,
+      "total": 5,
+      "no_rate": 0.8
+    },
+    {
+      "brand": "RedCow",
+      "city": "London",
+      "No": 4,
+      "Yes": 1,
+      "total": 5,
+      "no_rate": 0.8
+    },
+    {
+      "brand": "Colgatex",
+      "city": "London",
+      "No": 3,
+      "Yes": 1,
+      "total": 4,
+      "no_rate": 0.75
+    },
+    {
+      "brand": "Oreoz",
+      "city": "Toronto",
+      "No": 3,
+      "Yes": 1,
+      "total": 4,
+      "no_rate": 0.75
+    },
+    {
+      "brand": "GatorBoost",
+      "city": "Toronto",
+      "No": 5,
+      "Yes": 2,
+      "total": 7,
+      "no_rate": 0.7143
+    },
+    {
+      "brand": "GatorBoost",
+      "city": "London",
+      "No": 2,
+      "Yes": 1,
+      "total": 3,
+      "no_rate": 0.6667
+    }
+  ]
+}

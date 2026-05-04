@@ -1,0 +1,421 @@
+{
+  "summary": {
+    "total_transfers": 614,
+    "valid_transfers": 599,
+    "invalid_transfers": 15,
+    "total_volume": 55472.02,
+    "avg_amount": 92.61,
+    "median_amount": 27.24,
+    "max_amount": 15000.0,
+    "min_amount": 0.84,
+    "zero_count": 0
+  },
+  "top_senders": [
+    {
+      "sender_id": 123,
+      "total_sent": 15000.0,
+      "count": 3,
+      "first_name": "Finnian",
+      "last_name": "Fisher",
+      "city": "Toronto"
+    },
+    {
+      "sender_id": 654,
+      "total_sent": 15000.0,
+      "count": 1,
+      "first_name": "Dexter",
+      "last_name": "Hartley",
+      "city": "San Diego"
+    },
+    {
+      "sender_id": 777,
+      "total_sent": 2999.97,
+      "count": 3,
+      "first_name": "Mohsin",
+      "last_name": "Conley",
+      "city": "San Francisco"
+    },
+    {
+      "sender_id": 888,
+      "total_sent": 2035.04,
+      "count": 4,
+      "first_name": "Liana",
+      "last_name": "Baldwin",
+      "city": "San Diego"
+    },
+    {
+      "sender_id": 1002,
+      "total_sent": 1100.0,
+      "count": 55,
+      "first_name": "Fey",
+      "last_name": "Kuser",
+      "city": "Santa Claus"
+    },
+    {
+      "sender_id": 979,
+      "total_sent": 291.74,
+      "count": 7,
+      "first_name": "Myrtle",
+      "last_name": "Bradford",
+      "city": "San Diego"
+    },
+    {
+      "sender_id": 289,
+      "total_sent": 244.46,
+      "count": 4,
+      "first_name": "Adele",
+      "last_name": "Cantrell",
+      "city": "New York"
+    },
+    {
+      "sender_id": 878,
+      "total_sent": 224.8,
+      "count": 5,
+      "first_name": "Mateo",
+      "last_name": "Francis",
+      "city": "Los Angeles"
+    },
+    {
+      "sender_id": 938,
+      "total_sent": 194.02,
+      "count": 4,
+      "first_name": "Alisha",
+      "last_name": "Hoover",
+      "city": "San Diego"
+    },
+    {
+      "sender_id": 924,
+      "total_sent": 192.26,
+      "count": 4,
+      "first_name": "Kendra",
+      "last_name": "Francis",
+      "city": "San Francisco"
+    }
+  ],
+  "top_receivers": [
+    {
+      "recipient_id": 123,
+      "total_received": 15008.49,
+      "count": 2,
+      "first_name": "Finnian",
+      "last_name": "Fisher",
+      "city": "Toronto"
+    },
+    {
+      "recipient_id": 789,
+      "total_received": 5000.0,
+      "count": 1,
+      "first_name": "Lloyd",
+      "last_name": "Wise",
+      "city": "San Francisco"
+    },
+    {
+      "recipient_id": 321,
+      "total_received": 5000.0,
+      "count": 1,
+      "first_name": "Leena",
+      "last_name": "Castillo",
+      "city": "San Francisco"
+    },
+    {
+      "recipient_id": 456,
+      "total_received": 5000.0,
+      "count": 1,
+      "first_name": "Larry",
+      "last_name": "Clay",
+      "city": "Montreal"
+    },
+    {
+      "recipient_id": 888,
+      "total_received": 3143.04,
+      "count": 7,
+      "first_name": "Liana",
+      "last_name": "Baldwin",
+      "city": "San Diego"
+    },
+    {
+      "recipient_id": 777,
+      "total_received": 1999.98,
+      "count": 2,
+      "first_name": "Mohsin",
+      "last_name": "Conley",
+      "city": "San Francisco"
+    },
+    {
+      "recipient_id": 998,
+      "total_received": 1272.87,
+      "count": 56,
+      "first_name": "Fey",
+      "last_name": "Kuser",
+      "city": "Santa Claus"
+    },
+    {
+      "recipient_id": 947,
+      "total_received": 357.5,
+      "count": 7,
+      "first_name": "Isra",
+      "last_name": "Burgess",
+      "city": "San Diego"
+    },
+    {
+      "recipient_id": 973,
+      "total_received": 258.34,
+      "count": 6,
+      "first_name": "Jean",
+      "last_name": "Winters",
+      "city": "San Diego"
+    },
+    {
+      "recipient_id": 913,
+      "total_received": 231.48,
+      "count": 4,
+      "first_name": "Ricardo",
+      "last_name": "Odling",
+      "city": "New York"
+    }
+  ],
+  "monthly_trend": [
+    {
+      "year_month": "2022-01",
+      "transfer_total": 381.93,
+      "transaction_total": 13.0
+    },
+    {
+      "year_month": "2022-02",
+      "transfer_total": 382.03,
+      "transaction_total": 62.0
+    },
+    {
+      "year_month": "2022-03",
+      "transfer_total": 300.68,
+      "transaction_total": 173.0
+    },
+    {
+      "year_month": "2022-04",
+      "transfer_total": 147.12,
+      "transaction_total": 153.0
+    },
+    {
+      "year_month": "2022-05",
+      "transfer_total": 587.81,
+      "transaction_total": 97.0
+    },
+    {
+      "year_month": "2022-06",
+      "transfer_total": 536.26,
+      "transaction_total": 112.0
+    },
+    {
+      "year_month": "2022-07",
+      "transfer_total": 377.4,
+      "transaction_total": 81.0
+    },
+    {
+      "year_month": "2022-08",
+      "transfer_total": 408.73,
+      "transaction_total": 82.0
+    },
+    {
+      "year_month": "2022-09",
+      "transfer_total": 481.34,
+      "transaction_total": 79.0
+    },
+    {
+      "year_month": "2022-10",
+      "transfer_total": 497.22,
+      "transaction_total": 119.0
+    },
+    {
+      "year_month": "2022-11",
+      "transfer_total": 713.1,
+      "transaction_total": 75.0
+    },
+    {
+      "year_month": "2022-12",
+      "transfer_total": 523.64,
+      "transaction_total": 256.0
+    },
+    {
+      "year_month": "2023-01",
+      "transfer_total": 1075.79,
+      "transaction_total": 35.0
+    },
+    {
+      "year_month": "2023-02",
+      "transfer_total": 471.2,
+      "transaction_total": 59.0
+    },
+    {
+      "year_month": "2023-03",
+      "transfer_total": 733.71,
+      "transaction_total": 95.0
+    },
+    {
+      "year_month": "2023-04",
+      "transfer_total": 819.29,
+      "transaction_total": 119.0
+    },
+    {
+      "year_month": "2023-05",
+      "transfer_total": 917.41,
+      "transaction_total": 18.0
+    },
+    {
+      "year_month": "2023-06",
+      "transfer_total": 5891.31,
+      "transaction_total": 40.0
+    },
+    {
+      "year_month": "2023-07",
+      "transfer_total": 714.54,
+      "transaction_total": 171.0
+    },
+    {
+      "year_month": "2023-08",
+      "transfer_total": 15865.58,
+      "transaction_total": 107.0
+    },
+    {
+      "year_month": "2023-09",
+      "transfer_total": 15950.82,
+      "transaction_total": 33.0
+    },
+    {
+      "year_month": "2023-10",
+      "transfer_total": 1138.35,
+      "transaction_total": 4.0
+    },
+    {
+      "year_month": "2023-11",
+      "transfer_total": 593.92,
+      "transaction_total": 54.0
+    },
+    {
+      "year_month": "2023-12",
+      "transfer_total": 786.02,
+      "transaction_total": 239.0
+    },
+    {
+      "year_month": "2024-01",
+      "transfer_total": 1322.37,
+      "transaction_total": 49.0
+    },
+    {
+      "year_month": "2024-02",
+      "transfer_total": 1239.86,
+      "transaction_total": 69.0
+    },
+    {
+      "year_month": "2024-03",
+      "transfer_total": 1437.76,
+      "transaction_total": 52.0
+    },
+    {
+      "year_month": "2024-04",
+      "transfer_total": 1176.83,
+      "transaction_total": 84.0
+    }
+  ],
+  "outliers": {
+    "zero_transfers": [],
+    "high_value": [
+      {
+        "sender_id": 654,
+        "recipient_id": 123,
+        "amount": 15000.0,
+        "date": "2023-09-30"
+      },
+      {
+        "sender_id": 123,
+        "recipient_id": 456,
+        "amount": 5000.0,
+        "date": "2023-08-01"
+      },
+      {
+        "sender_id": 123,
+        "recipient_id": 789,
+        "amount": 5000.0,
+        "date": "2023-08-01"
+      },
+      {
+        "sender_id": 123,
+        "recipient_id": 321,
+        "amount": 5000.0,
+        "date": "2023-08-01"
+      },
+      {
+        "sender_id": 777,
+        "recipient_id": 888,
+        "amount": 999.99,
+        "date": "2023-06-15"
+      },
+      {
+        "sender_id": 888,
+        "recipient_id": 777,
+        "amount": 999.99,
+        "date": "2023-06-16"
+      },
+      {
+        "sender_id": 777,
+        "recipient_id": 888,
+        "amount": 999.99,
+        "date": "2023-06-17"
+      },
+      {
+        "sender_id": 888,
+        "recipient_id": 777,
+        "amount": 999.99,
+        "date": "2023-06-18"
+      },
+      {
+        "sender_id": 777,
+        "recipient_id": 888,
+        "amount": 999.99,
+        "date": "2023-06-19"
+      }
+    ],
+    "p99_threshold": 999.99
+  },
+  "amount_distribution": [
+    {
+      "bucket": "$0",
+      "count": 0
+    },
+    {
+      "bucket": "$0-50",
+      "count": 441
+    },
+    {
+      "bucket": "$50-100",
+      "count": 136
+    },
+    {
+      "bucket": "$100-250",
+      "count": 13
+    },
+    {
+      "bucket": "$250-500",
+      "count": 0
+    },
+    {
+      "bucket": "$500-1k",
+      "count": 5
+    },
+    {
+      "bucket": "$1k-2.5k",
+      "count": 0
+    },
+    {
+      "bucket": "$2.5k-5k",
+      "count": 3
+    },
+    {
+      "bucket": "$5k-10k",
+      "count": 0
+    },
+    {
+      "bucket": "$10k+",
+      "count": 1
+    }
+  ]
+}

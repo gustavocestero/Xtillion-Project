@@ -1,1 +1,8 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+venmito.db
+node_modules/
+dashboard/build/
 .DS_Store

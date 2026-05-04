@@ -1,0 +1,228 @@
+{
+  "revenue_by_store": [
+    {
+      "store": "Trader Tales",
+      "revenue": 606.0,
+      "items_sold": 157,
+      "transactions": 53
+    },
+    {
+      "store": "Urban Outfitters Loft",
+      "revenue": 588.0,
+      "items_sold": 173,
+      "transactions": 48
+    },
+    {
+      "store": "SparkMart",
+      "revenue": 539.0,
+      "items_sold": 119,
+      "transactions": 23
+    },
+    {
+      "store": "PetPals Mart",
+      "revenue": 440.0,
+      "items_sold": 135,
+      "transactions": 39
+    },
+    {
+      "store": "BestChoice Buy",
+      "revenue": 323.0,
+      "items_sold": 83,
+      "transactions": 23
+    },
+    {
+      "store": "Targeted Treasures",
+      "revenue": 34.0,
+      "items_sold": 8,
+      "transactions": 3
+    }
+  ],
+  "revenue_by_product": [
+    {
+      "item_name": "Flixnet",
+      "revenue": 643.0,
+      "units": 63
+    },
+    {
+      "item_name": "RedCow",
+      "revenue": 385.0,
+      "units": 103
+    },
+    {
+      "item_name": "Popsi",
+      "revenue": 273.0,
+      "units": 81
+    },
+    {
+      "item_name": "Krafty Cheddar",
+      "revenue": 270.0,
+      "units": 56
+    },
+    {
+      "item_name": "Dovee",
+      "revenue": 206.0,
+      "units": 110
+    },
+    {
+      "item_name": "Colgatex",
+      "revenue": 197.0,
+      "units": 67
+    },
+    {
+      "item_name": "GatorBoost",
+      "revenue": 161.0,
+      "units": 52
+    },
+    {
+      "item_name": "Oreoz",
+      "revenue": 160.0,
+      "units": 52
+    },
+    {
+      "item_name": "KittyKat",
+      "revenue": 151.0,
+      "units": 62
+    },
+    {
+      "item_name": "Coca-Splash",
+      "revenue": 84.0,
+      "units": 29
+    }
+  ],
+  "best_sellers": {
+    "by_units": [
+      {
+        "item": "Dovee",
+        "units": 110
+      },
+      {
+        "item": "RedCow",
+        "units": 103
+      },
+      {
+        "item": "Popsi",
+        "units": 81
+      },
+      {
+        "item": "Colgatex",
+        "units": 67
+      },
+      {
+        "item": "Flixnet",
+        "units": 63
+      }
+    ],
+    "by_revenue": [
+      {
+        "item": "Flixnet",
+        "revenue": 643.0
+      },
+      {
+        "item": "RedCow",
+        "revenue": 385.0
+      },
+      {
+        "item": "Popsi",
+        "revenue": 273.0
+      },
+      {
+        "item": "Krafty Cheddar",
+        "revenue": 270.0
+      },
+      {
+        "item": "Dovee",
+        "revenue": 206.0
+      }
+    ]
+  },
+  "basket_metrics": [
+    {
+      "store": "SparkMart",
+      "avg_items_per_txn": 5.17,
+      "avg_txn_value": 23.43,
+      "txn_count": 23
+    },
+    {
+      "store": "BestChoice Buy",
+      "avg_items_per_txn": 3.61,
+      "avg_txn_value": 14.04,
+      "txn_count": 23
+    },
+    {
+      "store": "Urban Outfitters Loft",
+      "avg_items_per_txn": 3.6,
+      "avg_txn_value": 12.25,
+      "txn_count": 48
+    },
+    {
+      "store": "Trader Tales",
+      "avg_items_per_txn": 2.96,
+      "avg_txn_value": 11.43,
+      "txn_count": 53
+    },
+    {
+      "store": "Targeted Treasures",
+      "avg_items_per_txn": 2.67,
+      "avg_txn_value": 11.33,
+      "txn_count": 3
+    },
+    {
+      "store": "PetPals Mart",
+      "avg_items_per_txn": 3.46,
+      "avg_txn_value": 11.28,
+      "txn_count": 39
+    }
+  ],
+  "product_affinity": [
+    {
+      "product_a": "Dovee",
+      "product_b": "Popsi",
+      "co_purchases": 13
+    },
+    {
+      "product_a": "Flixnet",
+      "product_b": "Popsi",
+      "co_purchases": 12
+    },
+    {
+      "product_a": "Colgatex",
+      "product_b": "Dovee",
+      "co_purchases": 12
+    },
+    {
+      "product_a": "KittyKat",
+      "product_b": "RedCow",
+      "co_purchases": 11
+    },
+    {
+      "product_a": "Dovee",
+      "product_b": "Oreoz",
+      "co_purchases": 11
+    },
+    {
+      "product_a": "Flixnet",
+      "product_b": "RedCow",
+      "co_purchases": 10
+    },
+    {
+      "product_a": "Colgatex",
+      "product_b": "Flixnet",
+      "co_purchases": 10
+    },
+    {
+      "product_a": "Flixnet",
+      "product_b": "KittyKat",
+      "co_purchases": 10
+    },
+    {
+      "product_a": "Colgatex",
+      "product_b": "Popsi",
+      "co_purchases": 10
+    },
+    {
+      "product_a": "Popsi",
+      "product_b": "RedCow",
+      "co_purchases": 9
+    }
+  ]
+}

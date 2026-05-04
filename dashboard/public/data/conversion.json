@@ -1,0 +1,81 @@
+{
+  "overall": {
+    "yes_count": 112,
+    "no_count": 124,
+    "yes_conversion_rate": 0.2143,
+    "no_conversion_rate": 0.0726,
+    "multiplier": 2.95
+  },
+  "by_brand": [
+    {
+      "brand": "Coca-Splash",
+      "no_rate": 0.0,
+      "yes_rate": 0.0833,
+      "no_count": 13.0,
+      "yes_count": 12.0
+    },
+    {
+      "brand": "Colgatex",
+      "no_rate": 0.1,
+      "yes_rate": 0.6,
+      "no_count": 10.0,
+      "yes_count": 5.0
+    },
+    {
+      "brand": "Dovee",
+      "no_rate": 0.0,
+      "yes_rate": 0.0,
+      "no_count": 12.0,
+      "yes_count": 13.0
+    },
+    {
+      "brand": "Flixnet",
+      "no_rate": 0.2143,
+      "yes_rate": 0.6,
+      "no_count": 14.0,
+      "yes_count": 10.0
+    },
+    {
+      "brand": "GatorBoost",
+      "no_rate": 0.0588,
+      "yes_rate": 0.25,
+      "no_count": 17.0,
+      "yes_count": 12.0
+    },
+    {
+      "brand": "KittyKat",
+      "no_rate": 0.0588,
+      "yes_rate": 0.125,
+      "no_count": 17.0,
+      "yes_count": 8.0
+    },
+    {
+      "brand": "Krafty Cheddar",
+      "no_rate": 0.0,
+      "yes_rate": 0.125,
+      "no_count": 7.0,
+      "yes_count": 8.0
+    },
+    {
+      "brand": "Oreoz",
+      "no_rate": 0.1538,
+      "yes_rate": 0.3889,
+      "no_count": 13.0,
+      "yes_count": 18.0
+    },
+    {
+      "brand": "Popsi",
+      "no_rate": 0.0,
+      "yes_rate": 0.0667,
+      "no_count": 10.0,
+      "yes_count": 15.0
+    },
+    {
+      "brand": "RedCow",
+      "no_rate": 0.0909,
+      "yes_rate": 0.0909,
+      "no_count": 11.0,
+      "yes_count": 11.0
+    }
+  ]
+}
